@@ -4,5 +4,19 @@
   "artist": "Mokuzuu",
   "author": "Mokuzuu",
   "cover": " https://i.imgur.com/rfVEN7P.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "0",
+      "last_updated": "1716055064",
+      "groups": {
+        "Extra": [
+          "https://i.imgur.com/ZLxOPDc.jpg",
+          "https://i.imgur.com/sPMDiYB.png",
+          "https://i.imgur.com/p4DFFCB.jpg",
+          ""
+        ]
+      }
+    }
+  }
 }
