@@ -5,24 +5,20 @@
   "author": "Mokuzuu",
   "cover": " https://i.imgur.com/rfVEN7P.png",
   "chapters": {
-    "1": {
+    "0": {
       "title": "Face 0. Breaking the Camel's Back",
       "volume": "",
-      "last_updated": "1716055149",
+      "last_updated": "1716301824",
       "groups": {
         "Audition": "/proxy/api/imgur/chapter/6ggUTH8"
       }
     },
-    "0": {
+    "-1": {
       "title": "EXTRA: Exposition (Places, history, and family history)",
       "volume": "",
-      "last_updated": "1716055064",
+      "last_updated": "1716301711",
       "groups": {
-        "Extra": [
-          "https://i.imgur.com/ZLxOPDc.jpg",
-          "https://i.imgur.com/sPMDiYB.png",
-          "https://i.imgur.com/p4DFFCB.jpg"
-        ]
+        "Extra": "/proxy/api/imgur/chapter/F0Voxb9"
       }
     }
   }
